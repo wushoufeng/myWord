@@ -1,2 +1,0 @@
-# myWord
-myWord
